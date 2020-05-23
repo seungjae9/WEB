@@ -1,1 +1,0 @@
-### BLOC(Bussiness Logic Component)
