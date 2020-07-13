@@ -7,5 +7,5 @@
 
 
 
-![ex_screenshot](./image/흐름도.png)
+![ex_screenshot](./image/흐름도.PNG)
 
