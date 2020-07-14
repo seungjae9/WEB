@@ -20,10 +20,31 @@
 
 ##### Methods
 
+* 클라이언트가 웹 서버에 사용자의 목적/종류를 알리는 수단
+
+  
+
 1. GET
-2. POST
-3. Put
-4. Delete
+   * 파라미터를 넘겨 해당하는 Body를 받는다.
+   * 오직 데이터를 받기만 한다.
+2. HEAD
+   * GET과 동일하지만 서버에서 Body(본문)를 Return 받지 않는다.
+   * 응답의 상태 코드 확인
+3. POST
+   * 내용 전송(파일 전송 가능) - Sever에 Input Data 전송
+   * 클라이언트에서 서버로 전달하고자하는 정보를 서버로 보낸다.
+   * GET방식과 다르게 주소창에 보이지 않고 숨겨서 보낸다.
+   * POST URL 은 Method 그 자체이며 페이지가 없다.
+4. PUT
+5. Delete
+
+
+
+
+
+![img](https://t1.daumcdn.net/cfile/tistory/9935CE375AE7330A15)
+
+
 
 
 
